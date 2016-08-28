@@ -1,0 +1,21 @@
+RIFLEMAN
+Land	    
+Rifleman      
+1              
+1                  
+2                 
+Infantry_Rifleman  
+BAZOOKA MAN
+Land  
+Bazooka Man      
+1                  
+3                 
+1                  
+Infantry_Bazooka  
+PATROL BOAT
+Sea
+Patrol Boat
+2
+2
+4
+Sea_Patrol
